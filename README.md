@@ -54,9 +54,13 @@
 * After that, type this: *git commit -m "Whatever changes you made"*
 * Ensure that you write in your commit the changes you made in your file
 
-**Step 8**: 
+**Step 8**: Upload the Changes You Made to GitHub
+
+* In the Git command prompt, enter *git push origin main*
+* After that, go to GitHub to ensure that the changes appear in the GitHub Repository
 
 
-      * 
-    
+**Part 2**: Glossary of Tutorial
+
+
     
