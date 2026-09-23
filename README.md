@@ -10,7 +10,7 @@
 * After that, you should download Git with the correct OS (Operating System)
 * Follow the instructions the software gives to set up and install Git
 * Once downloaded, open the command prompt
-* To ensure that Git is working, type **git --version**
+* To ensure that Git is working, type *git --version*
 * After this happens, the command prompt will show that Git is installed.
 
 **Step 2**: Sign up for GitHub
@@ -61,6 +61,31 @@
 
 
 **Part 2**: Glossary of Tutorial
+
+* Branch: A Branch is an isolated workspace from the main codebase
+* Clone: A clone is a copy of the repository from GitHub, which can be downloaded to your personal computer
+* Commit: Commits are important to track changes made in the repository 
+* Fetch: A fetch is when you can download commits, files, etc. from the repository that can be saved on the computer
+* GIT: A system where the changes can be seen in the source code
+* GitHub: GitHub is a website where you can add Git repositories
+* Merge: Merge is when changes in one branch can be integrated into another branch
+* Merge Conflict: This is when a merge fails
+* Push: Commits are uploaded to a repository in order for other people to download those commits
+* Pull: A pull is when changes are made in a repository, then merged into a branch
+* Remote: A repository is hosted on GitHub
+* Repository: Project files are stored here, and the changes can be seen
+
+ **Commits**
+
+ * Task: Created Repository
+ * Fix: Edited the README file name to README.md to write definitions and the necessary terms
+ * Feature: Added tutorial for Git x GitHub and added glossary + references
+
+**References**
+https://docs.github.com/en/get-started
+https://docs.github.com/
+https://git-scm.com/doc
+
 
 
     
